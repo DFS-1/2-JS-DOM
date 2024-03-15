@@ -8,7 +8,7 @@ En Javascript, créer une fonction qui vérifie si les 2 champs sont remplis (no
 
 ## Formulaire d'inscription
 
-Créer un formulaire d'inscription avec les champs *nom*, *prenom*, *email*, *téléphone*, *adresse*, *code postal*, *ville* et une case à cocher pour accepter les condition d'utilisation.
+Créer un formulaire d'inscription avec les champs *nom*, *prenom*, *email*, *téléphone*, *adresse*, *code postal*, *ville* et une case à cocher pour accepter les conditions d'utilisation.
 
 Ainsi qu'un bouton de validation bien sûr ;).
 
